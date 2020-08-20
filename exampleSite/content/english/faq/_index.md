@@ -4,7 +4,7 @@ description: "this is meta description"
 subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
 date: 2020-03-23T13:05:29+06:00
 draft: false
-bg_image: "images/1.jpg"
+bg_image: "images/4.png"
 ---
 
 #### 1. WHAT TO LOOK FOR IN ESSENTIAL OIL?
@@ -28,11 +28,13 @@ the oils you are considering buying.
 
 As a reputable company **the quality and transparency are a priority to us so all of our analysis and certificates are published on the page.**
 
+&nbsp;
 #### 2. CAN I GET A SAMPLE OF YOUR ESSENTIAL OILS?
 
 Yes! If you’ve seen the analysis but still want to test the oils for yourself we provide free oil
 samples that can be shipped worldwide.
 
+&nbsp;
 #### 3. CAN I VISIT YOU AND SEE THE PROCESS?
 
 Yes! We invite everyone who is interested to come and visit us on our distillery and see the
@@ -40,12 +42,14 @@ whole process for themselves. As the distillery is mobile, we tend to move it cl
 fields we are currently distilling to provide the highest quality oil. Please contact us
 beforehand to arrange time and location.
 
+&nbsp;
 #### 4. ARE YOUR OILS ECOLOGICAL?
 
 Yes! All of our crops are ecological which is continuously tested every year. That means we
 don’t use pesticides or any sorts of additives which can be seen in our analysis and
 certificates.
 
+&nbsp;
 #### 5. DO YOU ONLY DO WHOLESALE?
 
 At the moment we do not offer essential oil in small bottles with our own branding. Our oil is
