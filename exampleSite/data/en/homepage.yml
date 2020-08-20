@@ -24,18 +24,19 @@ portfolio:
   bg_image : "images/smilje/3.jpg" #"images/featue-bg.jpg"
   title : "WE BELIEVE IN THE POWER ON NATURE"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Our ancestors understood that mother nature provided us with everything we need to prosper,
+  including an extensive range of powerful plant extracts, each with their own unique organic
+  chemistry, scent and healing properties. With that concentrated ‘life force’ of plants, essential oils
+  have remarkable abilities to support our health and wellness.
+  \n
+  \n
+  Whether you are using them for aromatherapy or skincare we make sure our essential oils are of top
+  quality.
   "
-  button:
-    enable : true
-    label : "View Works"
-    link : "project"
+  # button:
+  #   enable : true
+  #   label : "View Works"
+  #   link : "project"
 
 
 ############################# Service ############################

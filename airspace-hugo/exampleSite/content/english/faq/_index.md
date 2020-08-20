@@ -4,59 +4,51 @@ description: "this is meta description"
 subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
 date: 2020-03-23T13:05:29+06:00
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/1.jpg"
 ---
 
-### Welcome to Airspace!
+#### 1. WHAT TO LOOK FOR IN ESSENTIAL OIL?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+There are recognized quality standards throughout the world that reputable companies follow. This
+includes GC/MS testing.
 
-#### 1.Overview
+GC/MS testing (Gas Chromatography/Mass Spectrometry) reveals important details about the
+essential oil quality, including:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+  *  __what specifically is in the oil__, including different types of oils (for example, some brands will
+    use a small amount of a high-quality essential oil and combine it with a lower quality essential
+    oil to reduce the cost. This also reduces the benefits though!) GCMS testing will allow you to
+    see exactly what’s in each bottle.
+  *  __whether there are any additives or adulterations__
+  *  __the beneficial compounds and percentages of each__ component in the oil
 
-#### 2. Data We Collect
+If you’re interested in the chemistry of essential oils, there are websites that list the recommended
+percentages of the different natural compounds in each essential oil and you can compare those to
+the oils you are considering buying.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+As a reputable company **the quality and transparency are a priority to us so all of our analysis and certificates are published on the page.**
 
-#### 3. How We Use Data
+#### 2. CAN I GET A SAMPLE OF YOUR ESSENTIAL OILS?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+Yes! If you’ve seen the analysis but still want to test the oils for yourself we provide free oil
+samples that can be shipped worldwide.
 
-#### 4. How We Disclose Data.
+#### 3. CAN I VISIT YOU AND SEE THE PROCESS?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+Yes! We invite everyone who is interested to come and visit us on our distillery and see the
+whole process for themselves. As the distillery is mobile, we tend to move it closer to the
+fields we are currently distilling to provide the highest quality oil. Please contact us
+beforehand to arrange time and location.
 
-#### 5. Security
+#### 4. ARE YOUR OILS ECOLOGICAL?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+Yes! All of our crops are ecological which is continuously tested every year. That means we
+don’t use pesticides or any sorts of additives which can be seen in our analysis and
+certificates.
 
-#### 6. Advertising.
+#### 5. DO YOU ONLY DO WHOLESALE?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+At the moment we do not offer essential oil in small bottles with our own branding. Our oil is
+intended for the bulk buyers such as resellers or aromatherapists who need larger quantities
+of oil for their businesses. However, we can also provide you with smaller amounts, feel free
+to ask.
