@@ -1,8 +1,8 @@
-.service {
+.distillery {
   text-align: center;
   padding: 90px 0;
 
-  .service-item {
+  .distillery-item {
     padding-bottom: 30px;
 
     i {
@@ -24,12 +24,12 @@
   }
 }
 
-.dark-service {
+.dark-distillery {
   .title {
     color: $light;
   }
 
-  .service-item {
+  .distillery-item {
     padding-bottom: 30px;
     text-align: center;
 
@@ -53,7 +53,7 @@
   }
 }
 
-.service-about {
+.distillery-about {
   p {
     line-height: 28px;
   }
@@ -63,7 +63,7 @@
 
 
 
-.service-arrow {
+.distillery-arrow {
   .block {
     padding: 70px 30px;
 
@@ -80,7 +80,7 @@
 
 
 
-.service-list {
+.distillery-list {
   .block {
     padding: 30px;
     margin-bottom: 20px;

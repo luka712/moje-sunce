@@ -44,9 +44,9 @@ portfolio:
 
 
 ############################# Service ############################
-service:
+distillery:
   enable : true
-  # service content comes from "data/*/service.yml" file
+  # service content comes from "data/*/distillery.yml" file
 
 
 ############################ call to action ###########################

@@ -65,13 +65,13 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
+  path: exampleSite/content/english/distillery
+  label: Distillery (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
+  path: exampleSite/content/french/distillery
+  label: Distillery (fr)
   create: none
   match: "*"
 - type: directory

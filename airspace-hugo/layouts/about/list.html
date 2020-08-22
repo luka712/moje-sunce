@@ -42,7 +42,7 @@
 
 {{ if $data.about.features.enable }}
 {{ with $data.about.features }}
-<section class="about-feature bg-dark section dark-service">
+<section class="about-feature bg-dark section dark-distillery">
   <div class="container">
     {{ with .title }}
     <div class="row">
@@ -56,7 +56,7 @@
     <div class="row">
       {{ range .feature_item }}
       <div class="col-md-4">
-        <div class="service-item">
+        <div class="distillery-item">
           <i class="{{ .icon }}"></i>
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
