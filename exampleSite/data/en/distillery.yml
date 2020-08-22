@@ -1,8 +1,8 @@
 ########################### about distillery #############################
 about:
   enable : true
-  title : "HOW IS IT MADE?"
-  content : "Steam distillation is by far the most popular method used to extract and isolate essential oils from
+  title : "The art of steam distillation."
+  content :  "Steam distillation is by far the most popular method used to extract and isolate essential oils from
               plants for use in natural products. This happens when steam vaporizes the plant materials volatile
               compounds, which eventually go through a condensation and collection process.
               \n\n
@@ -11,6 +11,33 @@ about:
               capacity of 4000 L and can process approximately 800-1000 kg of fresh herb per cycle."
   image : "images/distillery/distillation_scheme.jpg"
   ref : 
+  items: 
+    - content: "The very important step before starting any distillation is to heat the whole system. That
+                means that the steam generator has to run on an empty system to steam both the
+                containers and the condensers."
+      no : 1
+    - content: "Plant material is usually loaded on the ground and transported to the container by a crane."
+      no : 2
+    - content: "Through an inlet, steam is injected through the plant material containing the desired oils,
+                releasing the plant&#39;s aromatic molecules and turning them into vapor."
+      no : 3
+    - content: "The vaporized plant compounds travel to the condensation flask, also known as the
+                condenser.  Here, two separate pipes make it possible for hot water to exit and for cold
+                water to enter the condenser.  This makes the vapor cool back to liquid form."
+      no : 4
+    - content: "Finally, the aromatic liquid collects in the separator and because oil and water don&#39;t mix, the
+                essential oil floats to the top of the ware. From here it is siphoned off. What we have left on
+                the bottom is called hydrosol, also known as ‘flower water’ which is commonly used in
+                cosmetics and toiletries."
+      no : 5
+    - content: "After every shift or in between different herbs, containers, condensers and separators are
+                thoroughly steamed and cleaned for 2 hours to avoid oxidation and contamination of the left
+                over oil."
+      no : 6
+    - content: "After every shift or in between different herbs, containers, condensers and separators are
+                thoroughly steamed and cleaned for 2 hours to avoid oxidation and contamination of the left
+                over oil."
+      no : 7
 
 
 ########################## featured distillery ############################
@@ -27,7 +54,7 @@ featured_distillery:
       
     # featured distillery item loop
     - name : "HYDROSOLS / FLOWER WATER"
-      icon : "ion-leaf"
+      icon : "ion-waterdrop"
       color : "primary-dark"
       content : "Diluted herbal distillates at less than 1% concentration of essential oil that are used as
                 flavourings or in cosmetics."
@@ -35,7 +62,7 @@ featured_distillery:
       
     # featured distillery item loop
     - name : "DISTILLATION SERVICES"
-      icon : "ion-lightbulb"
+      icon : "ion-gear-b"
       color : "primary-darker"
       content : "We offer premium distillation services of your plants."
       #format_html: ""
@@ -52,7 +79,9 @@ distillery:
     # distillery item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "The very important step before starting any distillation is to heat the whole system. That
+                means that the steam generator has to run on an empty system to steam both the
+                containers and the condensers."
 
     # distillery item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/

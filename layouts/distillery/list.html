@@ -17,6 +17,13 @@
         <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>
+    <div class="row" style="margin-top: 50px;">
+      <ol>
+        {{ range .items }}
+        <li><p>{{ .content }}</p></li>
+        {{end}}
+      </ol>
+    </div>
   </div>
 </section>
 {{ end }}
