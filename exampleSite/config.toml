@@ -48,7 +48,7 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
+name = "Projects"
 URL = "project"
 weight = 2
 
@@ -58,8 +58,8 @@ URL = "distillery"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Products"
+URL = "products"
 weight = 4
 
 [[menu.main]]
@@ -74,7 +74,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Pricing"
+  name = "Certificates"
   URL = "pricing"
   
 [[menu.main]]
@@ -122,9 +122,9 @@ logo = "images/mojesunce3.jpg"
 description = "This is meta description"
 author = "Themefisher"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+mobile = "+385 91 554 7396"
+email = "obnovljivi.izvori.ee@gmail.com"
+location = "Franje Krežme 20, 31 000 Osijek, Croatia"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs

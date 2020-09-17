@@ -6,7 +6,7 @@
 
 {{ if $data.distillery.about.enable }}
 {{ with $data.distillery.about }}
-<section class="distillery-about section">
+<section class="distillery-about distillery-about-padding">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
@@ -14,17 +14,26 @@
         <p class="mt-30">{{ .content | markdownify }}</p>
       </div>
       <div class="col-md-6">
-        <img class="img-responsive" src="{{ .image | absURL }}">
+        <img class="img-responsive" src="{{ .image | absURL }}" style="margin-top: 40px;">
       </div>
     </div>
     <div class="row" style="margin-top: 50px;">
       <ol>
         {{ range .items }}
-        <li><p>{{ .content }}</p></li>
+        <li>
+          <p>{{ .content }}</p>
+        </li>
         {{end}}
       </ol>
     </div>
+    {{ if $data.distillery.bottom_image }}
+    <div class="row">
+      <img src="{{$data.distillery.bottom_image}}"
+        style="width: 95%; display: block; margin-left: auto; margin-right: auto; margin-top: 15px;" />
+    </div>
+    {{ end }}
   </div>
+
 </section>
 {{ end }}
 {{ end }}
@@ -43,7 +52,7 @@
             {{ .content | markdownify }}
             {{if .br }}<br>&nbsp;{{ end }}
           </p>
-      
+
         </div>
       </div>
       {{ end }}
@@ -52,6 +61,7 @@
 </section>
 {{ end }}
 {{ end }}
+
 
 <!-- Distillery -->
 {{ if $data.distillery.distillery.enable }}
@@ -65,4 +75,13 @@
 {{ end }}
 <!-- /Call to action -->
 
+<div class="container">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <div class="col-md-offset-2">
+      <a href="/products" target="_blank" class="btn btn-main animated fadeInUp">Explore more about <br> our products</a>
+    </div>
+  </div>
+  <div class="col-md-4"></div>
+</div>
 {{ end }}

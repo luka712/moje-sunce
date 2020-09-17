@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Discover Our Project"
-    link : "project"
+    link : "distillery"
 
 ############################# About #################################
 about:
@@ -15,13 +15,13 @@ about:
   title : "WHERE TRADITION MEETS HIGH TECHNOLOGY"
   description : "Far far away, between the gloomy mountain Velebit and the vibrant Adriatic sea lie endless fields of indigenous medicinal herbs."
   content : "Every herb comes from a certified ecological plantation or grows freely in the wilderness, far from any contaminants. Our mission is to offer the best of two worlds by combining traditional ways of cultivation and harvesting with the latest distilling technology. One thing is certain, from the very first herb picked to the last drop of oil, we do things with passion and excitement. "
-  image : "images/smilje/2.png" # "images/wrapper-img.png"
+  image : "images/smilje/smilje.png" # "images/wrapper-img.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/smilje/lavanda_naslovna.png" #"images/featue-bg.jpg"
+  bg_image : "images/smilje/lavender.png" #"images/featue-bg.jpg"
   title : "WE BELIEVE IN THE POWER ON NATURE"
   content : "
   Our ancestors understood that mother nature provided us with everything we need to prosper,
@@ -38,6 +38,15 @@ portfolio:
   #   label : "View Works"
   #   link : "project"
 
+###################### Portfoilo Footer ###########################
+portfolio_footer:
+  enable : true
+  title : "STRAIGHT FROM THE SOURCE"
+  description : ""
+  content : "We produce only pure high quality ingredients and we stand behind every item that we make 100%. Our oils are ideal for aromatherapists or cosmetic producers who want to skip the middleman and buy straight from the source with the guaranteed quality. 
+  \n\nWe invite everyone who is interested to come and visit us on our distillery and see the whole process for themselves."
+  image : "images/smilje/video.gif" # "images/wrapper-img.png"
+  saturate: "100%"
 
 ############################# Service ############################
 service:
@@ -55,10 +64,37 @@ cta:
     enable : true
     label : "Tell Us Your Story"
     link : "contact"
-
+############################ Homepage items ##########################
+homepage_items:
+  enable: true
+  homepage_item:
+      # featured distillery item loop
+      - name : "SAFETY & EDUCATION FOCUSED"
+        icon : "ion-ribbon-b"
+        color : "primary"
+        content : "At Moje Sunce we strive to stay on the cutting-edge of distillation safety and education. We strive
+to set a standard for safety and transparency in the industry, continue to educate our customers and
+share up-to-date information with every member of our staff. We take great pride in making sure our
+oils are safe, pure and natural."
+      
+      # featured distillery item loop
+      - name : "100% ORGANIC"
+        icon : "ion-leaf"
+        color : "primary-dark"
+        content : "All of our oils are 100% pure therapeutic grade. Our oils are unadulterated, free of synthetics and
+entirely pure. We don’t use pesticides, herbicides or fertilizers."  
+        
+      # featured distillery item loop
+      - name : "CERTIFIED BIOLOGISTS ON STAFF"
+        icon : "ion-university"
+        color : "primary-darker"
+        content : "Moje Sunce has Masters of Science in Biology (MSc) on staff who are always continuing their
+education and are available for customer concerns. Our biologist contribute to our educational and DIY
+blog posts, and are on call to answer any questions."
+        
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"

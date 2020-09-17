@@ -1,6 +1,9 @@
 .distillery {
   text-align: center;
-  padding: 90px 0;
+  padding-top: 90px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 50px;
 
   .distillery-item {
     padding-bottom: 30px;
@@ -59,14 +62,14 @@
   }
 }
 
-
-
-
+.distillery-about-padding{
+  padding: 60px;
+}
 
 .distillery-arrow {
   .block {
-    padding: 70px 30px;
-
+    padding: 50px 30px;
+    height: 330px;
     i {
       font-size: 40px;
     }

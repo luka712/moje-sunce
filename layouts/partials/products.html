@@ -1,0 +1,19 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.products.products }}
+<section class="distillery">
+  <div class="container">
+    <div class="row">
+      {{ range .product_item }}
+      <div class="col-sm-6 col-md-3" style="width: 20%;">
+        <div class="distillery-item">
+          <img src="{{.image}}" style="width: {{.width}}%;height: {{.height}}%" />
+          <h4>{{ .name | markdownify }}</h4>
+          <p style="font-style: italic;color: #666;font-family: volkhov,serif;">{{ .meta | markdownify }}<p>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

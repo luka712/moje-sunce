@@ -1,9 +1,12 @@
 ---
-title: "Rio Furniture"
+title: "Organic Plantations"
 description: "this is meta description"
+index: 2
 draft: false
-image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/field.jpg"
+content_image : "images/portfolio/field2.jpg"
+#bg_image: "images/featue-bg.jpg"
+enable_grid_images: true
 category: "Illustration"
 information:
   - label : "Client"
@@ -18,34 +21,54 @@ information:
     info : "HTML5 / PHP / CSS3"
   - label : "Client"
     info : "Jannie Kelonsky"
+grid_images_1: 
+  - src: "images/portfolio/plantations/plantations.jpg"
+    thumb: "images/portfolio/plantations/plantations1_small.jpg"
+  - src: "images/portfolio/plantations/plantations2.jpg"
+    thumb: "images/portfolio/plantations/plantations2_small.jpg"
+  - src: "images/portfolio/plantations/plantations3.jpg"
+    thumb: "images/portfolio/plantations/plantations3_small.jpg"
+  - src: "images/portfolio/plantations/plantations4.jpg"
+    thumb: "images/portfolio/plantations/plantations4_small.jpg"
+  - src: "images/portfolio/plantations/plantations5.jpg"
+    thumb: "images/portfolio/plantations/plantations5_small.jpg"
+  - src: "images/portfolio/plantations/plantations6.jpg"
+    thumb: "images/portfolio/plantations/plantations6_small.jpg"
+grid_images_2:
+  - src: "images/portfolio/plantations/plantations7.jpg"
+    thumb: "images/portfolio/plantations/plantations7_small.jpg"
+  - src: "images/portfolio/plantations/plantations8.jpg"
+    thumb: "images/portfolio/plantations/plantations8_small.jpg"
+  - src: "images/portfolio/plantations/plantations9.jpg"
+    thumb: "images/portfolio/plantations/plantations9_small.jpg"
+  - src: "images/portfolio/plantations/plantations10.jpg"
+    thumb: "images/portfolio/plantations/plantations10_small.jpg"
+  - src: "images/portfolio/plantations/plantations11.jpg"
+    thumb: "images/portfolio/plantations/plantations11_small.jpg"
+  - src: "images/portfolio/plantations/plantations12.jpg"
+    thumb: "images/portfolio/plantations/plantations12_small.jpg"
 ---
 
-## Behance Website Redesign
+## Organic Medicinal Herbs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+In the area of Bilice in the Šibenik - Knin County, our company planted approximately 260,000
+seedlings of the plant Helicrysum italicum, also known as Immortelle. Immortelle was planted on a
+karst field where nothing was ever grown and without pollution. Through a demanding process, we
+obtained clean and intact areas from a neglected land, ready for the cultivation of Immortelle and
+other medicinal plants. Our partners developed seedlings from the seeds of the native Croatian
+species, which we returned to their original habitats and arranged them for cultivation. Without a
+trace of artificial fertilizers and herbicides since planting, our plantation has an ecological certificate
+of cultivation.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+Immortelle (lat. Helichrysum italicum) has almost miraculous properties in skin care because it affects
+all skin types with an emphasis on the regeneration of damaged and mature skin prone to wrinkles. It
+is well known for its extremely strong antioxidant effect.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+Immortelle as an active substance in creams and other cosmetic products stimulates skin cell
+renewal, reduces wrinkles and fine lines, protects the skin from free radicals, stimulates collagen
+production, reduces scarring and skin discoloration, has anti-inflammatory effects and promotes
+healing.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+As with all plants, its scent comes from its essential oil. It has a very complex composition - it
+contains compounds such as nerol, neryl acetate and a group of compounds - italidions, which are
+almost non-existent in other types of plants.

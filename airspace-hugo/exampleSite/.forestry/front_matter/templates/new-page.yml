@@ -8,6 +8,9 @@ fields:
 - type: text
   name: description
   label: description
+- type: text
+  name: bg_image_size
+  description: style of bg image
 - name: bg_image
   type: file
   config:

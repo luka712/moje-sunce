@@ -1,9 +1,11 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Solar Power Plants"
+description: ""
+index: 1
 draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/solar1.jpg"
+#bg_image: "images/featue-bg.jpg"
+content_image: "images/portfolio/roof.jpg"
 category: "UI/UX Design"
 information:
   - label : "Client"
@@ -20,32 +22,14 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Solar Power Plants
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Our company built and owns 9 solar power plants on the roofs of primary schools in Osijek-Baranja
+County with a total power of approximately 270 kW. A contract on the sale of electricity from
+renewable sources was signed with HROTE – Croatian Energy Market Operator, and lasts until the
+2028. Elementary schools generate funds from roof rental income each year, while our company
+takes care of the roofs and provides domestic hot water from the solar collectors.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+We remain one of the few entrepreneurs in Croatia who have installed photovoltaic power plants as
+renewable energy sources on public buildings. We believe it to be a good and sustainable
+combination for both investors and users of facilities.

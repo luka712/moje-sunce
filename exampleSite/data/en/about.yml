@@ -2,14 +2,29 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  title : "We strive to be the best and <br> make quality work."
+  content : "From the very beginning of our company'&#39;'s operation, we are dedicated to environmental issues and
+are actively involved in projects related to sustainable development. Although the projects may seem
+too different and random, they are all dedicated to sustainable and ecological development, nature
+protection and energy efficiency. Almost 15 years ago, we built one of the first passive solar houses
+in this part of Europe, a facility that consumed five times less energy than the usual construction
+characteristic for that period. For a long time, we have been educating students and citizens about
+sustainable and ecological construction through several EU projects that we have written ourselves.
+Our project manager Goran Pichler has written several cross-border projects with partners from
+Hungary, Italy and Serbia, all related to sustainable and energy efficient construction that saves
+energy and protects nature. He worked on a similar topic through a five-year project Energy
+Efficiency in Public Buildings within the activities of UNDP - the United Nations Development
+Program.
+
+
+After our own entrepreneurial projects in the field of renewable energy sources, we turned to
+another topic close to us - organic farming and sustainable agriculture. The activities are supported
+by Josipa Pichler, a master of biology who works on new topics and projects - the cultivation of
+plantations and the distillation of medicinal plants, as well as the establishment of a large almond
+orchard. All new activities are related to the ecological production of valuable and complex products
+using raw materials from our own agricultural plantations. We continue to actively use EU
+development funds, as we are launching the latest development project with the help of experts and
+scientists from the leading universities of the region."
 
   button:
     enable : true

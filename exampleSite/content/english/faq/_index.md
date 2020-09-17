@@ -1,10 +1,11 @@
 ---
 title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
+subtitle : ""
+date: 2020-09-01T13:05:29+06:00
 draft: false
-bg_image: "images/FAQ.jpg"
+# bg_image: "images/kolaz.jpg"
+# bg_image_size: "100% 100%"
+#padding_size: "165px"
 ---
 
 #### 1. WHAT TO LOOK FOR IN ESSENTIAL OIL?

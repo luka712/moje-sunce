@@ -1,4 +1,6 @@
-<section class="page-title bg-2" style="background-image: url('{{.Params.Bg_image | absURL}}');">
+
+{{ if .Params.Bg_image }}
+<section class="page-title bg-2" style="background-image: url('{{.Params.Bg_image | absURL}}'); background-size: {{ .Params.bg_image_size }}; padding: {{.Params.padding_size}}; height: 100%;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -10,3 +12,16 @@
     </div>
   </div>
 </section>
+{{ else }}
+<section class="page-title-type-2 bg-2" style="background-color:rgba(60,55,55,.5)">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block" >
+          <h1 style="color: white;">{{ .Title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

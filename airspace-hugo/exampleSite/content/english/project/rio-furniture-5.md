@@ -1,9 +1,13 @@
 ---
-title: "Rio Furniture"
+title: "Distillation"
 description: "this is meta description"
+index: 5
 draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/distillation.jpg"
+#bg_image: "images/featue-bg.jpg"
+content_image: "images/portfolio/oil.png"
+distillery_btn: true
+enable_grid_images: true
 category: "Illustration"
 information:
   - label : "Client"
@@ -18,34 +22,52 @@ information:
     info : "HTML5 / PHP / CSS3"
   - label : "Client"
     info : "Jannie Kelonsky"
+grid_images_1: 
+  - src: "images/portfolio/distillation/distillation1.jpg"
+    thumb: "images/portfolio/distillation/distillation1_small.jpg"
+  - src: "images/portfolio/distillation/distillation2.jpg"
+    thumb: "images/portfolio/distillation/distillation2_small.jpg"
+  - src: "images/portfolio/distillation/distillation3.jpg"
+    thumb: "images/portfolio/distillation/distillation3_small.jpg"
+  - src: "images/portfolio/distillation/distillation4.jpg"
+    thumb: "images/portfolio/distillation/distillation4_small.jpg"
+  - src: "images/portfolio/distillation/distillation5.jpg"
+    thumb: "images/portfolio/distillation/distillation5_small.jpg"
+  - src: "images/portfolio/distillation/distillation6.jpg"
+    thumb: "images/portfolio/distillation/distillation6_small.jpg"
+grid_images_2:
+  - src: "images/portfolio/distillation/distillation7.jpg"
+    thumb: "images/portfolio/distillation/distillation7_small.jpg"
+  - src: "images/portfolio/distillation/distillation8.jpg"
+    thumb: "images/portfolio/distillation/distillation8_small.jpg"
+  - src: "images/portfolio/distillation/distillation9.jpg"
+    thumb: "images/portfolio/distillation/distillation9_small.jpg"
+  - src: "images/portfolio/distillation/distillation10.jpg"
+    thumb: "images/portfolio/distillation/distillation10_small.jpg"
+  - src: "images/portfolio/distillation/distillation11.jpg"
+    thumb: "images/portfolio/distillation/distillation11_small.jpg"
+  - src: "images/portfolio/distillation/distillation12.jpg"
+    thumb: "images/portfolio/distillation/distillation12_small.jpg"
 ---
 
-## Behance Website Redesign
+## Distillation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+In order to complete the process of growing Immortelle on our plantations, we
+ordered a custom steam distillery to meet our needs. The equipment is permanently
+placed on a large truck trailer and is always ready to work at any location in Croatia,
+as close as possible to the areas from which we process medicinal herbs. For now,
+we plan to distil chamomile and lemon balm in Slavonia, and immortelle, laurel and
+lavender in Dalmatia. With a capacity of 4,000 L, the mobile distillery is able to
+process approximately 800 kg of the green plant mass in a cycle.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+Our equipment operates by the method of steam distillation in which steam passes
+through the plant mass and carries valuable fragrant substances. From the harvest of
+the plant to the processing into essential oil, it never takes longer than six hours. The
+steam distillery always works with low pressures and temperatures to produce
+essential oils of the highest quality. It is also equipped for the extraction and
+processing of hydrolates, as we are immediately able to perform double sterile
+filtration. In full production of our own areas, we can annually produce approximately
+90 kg of immortelle essential oil and several thousand liters of hydrolate. During the
+immortelle harvesting season, the distillery can process roughly 450 t of immortelle
+green mass. We are always open for cooperation and processing of medicinal herbs
+from other plantations, with possible various arrangements.

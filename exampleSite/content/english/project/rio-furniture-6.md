@@ -1,9 +1,11 @@
 ---
-title: "Rio Furniture"
+title: "Ultrasonic Extraction"
 description: "this is meta description"
+index: 6
 draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/hemp.jpg"
+content_image: "images/portfolio/cbd.jpg"
+#bg_image: "images/featue-bg.jpg"
 category: "Video"
 information:
   - label : "Client"
@@ -20,32 +22,25 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Ultrasonic Extraction
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Our future should be green and clean, as well as very advanced and modern. With
+the help of EU funds and in cooperation with The Faculty of Food Technology and
+Biotechnology at the University of Zagreb, we are nearing the end of the project
+evaluation within the EU program Competitiveness and Cohesion - Research,
+Technological Development and Innovation. Our project idea - “The development of
+an innovative production process for the production of CBD oil“ has passed
+inspections and evaluations and we hope to sign a contract soon.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+In the last few years, CBD oil has become the product of greatest demand in the EU
+with the announcements of large growth in consumption. The production is very
+technologically complex, because most of the process takes place either under
+enormous pressures or in a vacuum. The equipment is complex and expensive, and
+production requires large investments from the very beginning.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+Within the proposed three years of laboratory and industrial research, we will strive to
+obtain four groups of products from industrial hemp flowers, along with several
+extracts from grape seeds and vegetables such as garlic and parsley. The method
+used is called ultrasonic extraction and vacuum distillation and is completely
+environmentally friendly. In addition to CBD oils, we plan to produce organic cold-
+pressed oils and proteins as a dietary supplement.

@@ -1,9 +1,11 @@
 ---
-title: "Rio Furniture"
+title: "Organic Cosmetics"
 description: "this is meta description"
+index: 4
 draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/cosmetics.jpg"
+content_image : "images/portfolio/faq.jpg"
+#bg_image: "images/featue-bg.jpg"
 category: "UI/UX Design"
 information:
   - label : "Client"
@@ -20,32 +22,14 @@ information:
     info : "Jannie Kelonsky"
 ---
 
-## Behance Website Redesign
+## Organic Cosmetics
+After growing our own Immortelle plantations and securing the steam distillery, we decided to close
+the production cycle with the organic Immortelle cosmetics. After thorough testing over
+several months during which we developed a new cosmetic line, we came up with the certification of 15
+cosmetic products and 9 essential oils for sale on the EU market. One of the results of the project
+was the entry of cosmetic products in the CPNP - EU register of cosmetic products.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+We consider starting the production of top quality cosmetics with a high percentage of active
+substance - Immortelle essential oil, an activity that will make the business of growing and distilling
+Immortelle sustainable in the long run, making our company a relevant producer of natural
+cosmetics.

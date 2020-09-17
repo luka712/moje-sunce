@@ -31,7 +31,7 @@
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
 <!-- about -->
-<section class="about section">
+<section class="about" style="padding: 15px;">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
@@ -45,11 +45,12 @@
       </div>
       <div class="col-md-5 col-sm-12">
         <div class="block">
-          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img" style="position: relative;top: 50px;">
         </div>
       </div>
     </div>
   </div>
+  <br>
 </section>
 <!-- /about -->
 {{ end }}
@@ -58,7 +59,7 @@
 {{ if $data.homepage.portfolio.enable }}
 {{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}');background-position-x: -150px;background-size: 110%;">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
@@ -75,6 +76,35 @@
 </section>
 <!-- /portfolio -->
 {{ end }}
+
+{{ with $data.homepage.portfolio_footer }}
+<!-- portfolio footer -->
+<section class="about" style="padding: 15px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <br>
+            <br>
+            <br>
+            <h2>{{ .title | markdownify }}</h2>
+          </div>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img"
+            style="filter: saturate({{.saturate}}); border-radius: 50%">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /portfolio footer -->
+{{ end }}
+
 {{ end }}
 
 <!-- Distillery -->
@@ -88,6 +118,51 @@
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
+
+<br>
+<br>
+<br>
+<br>
+
+
+{{if $data.homepage.homepage_items.enable}}
+{{with $data.homepage.homepage_items}}
+<section class="distillery-arrow">
+  <div class="container-fluid">
+    <div class="row">
+      {{ range .homepage_item }}
+      <div class="col-md-4 bg-primary bg-{{ .color }}">
+        <div class="block">
+          <i class="{{ .icon }}"></i>
+          <h3>{{ .name | markdownify }}</h3>
+          <p>
+            {{ .content | markdownify }}
+            {{if .br }}<br>&nbsp;{{ end }}
+            {{if .br_second }}<br>&nbsp;{{ end }}
+            {{if .br_third }}<br>&nbsp;{{ end }}
+          </p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+<br>
+<br>
+
+<div class="row">
+    <div class="col-md-2 col-md-offset-1"><img src="images/logo1.jpg" style="width: 50%;"></div>
+    <div class="col-md-2"> <img src="images/logo_2.jpg" style="width: 50%;"></div>
+    <div class="col-md-2"> <img src="images/logo3.jpg" style="width: 50%;"></div>
+    <div class="col-md-2"> <img src="images/logo5.png" style="width: 50%;"></div>
+    <div class="col-md-2"> <img src="images/quality.png" style="width: 50%;"></div>
+</div>
+
+<br>
+<br>
 
 {{ if $data.homepage.funfacts.enable }}
 {{ with $data.homepage.funfacts }}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- Distillery -->
+{{ if $data.products.products.enable }}
+{{ partial "products.html" . }}
+{{ end }}
+<!-- /distillery -->
+
+<!-- Call to action -->
+<!-- {{ if $data.distillery.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }} -->
+<!-- /Call to action -->
+
+<!-- <div class="container">
+  <div class="col-md-4"></div>
+  <div class="col-md-4">
+    <div class="col-md-offset-2">
+      <a href="/products" target="_blank" class="btn btn-main animated fadeInUp">Explore more about <br> our products</a>
+    </div>
+  </div>
+  <div class="col-md-4"></div>
+</div> -->
+{{ end }}

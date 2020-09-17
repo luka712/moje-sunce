@@ -17,6 +17,9 @@ fields:
   label: bg image
   description: page header background image
 - type: text
+  name: bg_image_size
+  description: style of bg image
+- type: text
   name: category
   label: category
   description: Filter Category
