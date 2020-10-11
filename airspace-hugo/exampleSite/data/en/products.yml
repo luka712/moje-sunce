@@ -1,5 +1,5 @@
       
-############################# distillery ###############################
+############################# products ###############################
 products:
   enable : true
   title : "Products"
@@ -7,52 +7,57 @@ products:
   product_item:
 
 
-    # distillery item loop
+    # product item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Laurel
       content: "Acts as an antiseptic, anti-inflammatory and antifungal. It relieves pain and muscle cramps and it is used to treat spasms and sprains. It stimulates the blood circulation and lymph, and is also known as a repellent. It can be used as a space refreshener. "
       meta: Laurus nobilis
       image: "../images/products/laurel.jpg"
+      url: "laurel"
       width: 100
       height: 100
 
-      # distillery item loop
+      # product item loop
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: lavender
       content: "A must-have for its calming & relaxing properties. It is purporsed to have anti-inflammatory, antifungal, antidepressant, antiseptic, antibacterial and antimicrobial properties."
-      meta: Lavandula hybrida
+      meta: Lavandula angustifolia
       image: "../images/products/lavender.jpg"
+      url: "lavender"
       width: 110
       height: 110
 
    
-          # distillery item loop
+          # product item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Immortelle
       content: "Best known for its almost miraculous properties in skin care because it affects all skin types with an emphasis on the regeneration of damaged and mature skin prone to wrinkles. Contains extremely strong antioxidants."
       meta: Helichrysum italicum
       image: "../images/products/immortele.jpg"
+      url: "immortelle"
       width: 120
       height: 120
       
 
     
 
-    # distillery item loop
+    # product item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: chamomile
       content: It has a very anti-inflammatory effect, works quickly and effectively in all types of inflammatory skin diseases, skin allergies, seborrhea, burns. It is also used as an aid to allergic diseases such as asthma and allergic rhinitis.
-      meta: Anthemis nobilis
+      meta: Chamomilla matricaria
       image: "../images/products/chamomile.jpg"
+      url: "chamomile"
       width: 110
       height: 110
 
-       # distillery item loop
+       # product item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Myrtle
       content: "Works strongly antiviral and also as a strong expectorant. It is used for viral infections, especially for children. It also prevents the production of mucus and it is ideal for the treatment of sinusitis and bronchitis. "
       meta: Myrtus communis
       image: "../images/products/myrtus.jpg"
+      url: "myrtle"
       width: 100
       height: 100
 
