@@ -6,12 +6,38 @@ image : "images/blog/blog-post-5.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","AI"]
-description: "this is meta description"
+sections: 
+    - key: "Description:"
+      value: "Organic Chamomile blue is the more potent of the two varieties of chamomile, with a more powerful, herbaceous aroma. It is also known as German Chamomile."
+    - key: ""
+      value: ""
+    - key: "Ingredient profile:"
+      value: "Chamomilla Matricaria."
+    - key: "Origin:"
+      value: "Croatia."
+    - key: "Extraction Method:"
+      value: "Steam distilled."
+    - key: "Colour:"
+      value: "Deep blue to blueish green."
+    - key: "Odour:"
+      value: "Herbaceous."
+    - key: ""
+      value: ""
+    - key: "Characteristics:"
+      list: 
+        - value: "Certified cruelty free, organic and vegan friendly."
+        - value: "Steam distilled."
+        - value: "Calming and relaxing."
+        - value: "Very popular in aromatherapy and massage."
+        - value: "Frequently used in skincare preparations thanks to its soothing properties."
+        - value: "Delicately fragrance your homemade products and massage oil blends."
+        - value: "Middle perfumery note."
+        - value: "Blends well with Bergamot, Frankincense, Lavender, Rose, Ylang Ylang."
 draft: false
 type: "post"
 ---
 
-# Chamomilla matricaria
+### Chamomilla matricaria
 
 Description - Organic Chamomile blue is the more potent of the two varieties of chamomile, with a more powerful, herbaceous aroma. It is also known as German Chamomile.
  

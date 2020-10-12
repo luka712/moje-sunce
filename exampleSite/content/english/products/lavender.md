@@ -6,7 +6,9 @@ image : "images/blog/blog-post-2.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","Retro"]
-description: "this is meta description"
+sections: 
+    - key: "Description"
+      value: "Hello"
 draft: false
 type: "post"
 ---

@@ -6,7 +6,9 @@ image : "images/blog/blog-post-4.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Legacy Support"]
 tags: ["Mechine","Retro"]
-description: "this is meta description"
+sections: 
+    - key: "Description"
+      value: "Hello"
 draft: false
 type: "post"
 ---

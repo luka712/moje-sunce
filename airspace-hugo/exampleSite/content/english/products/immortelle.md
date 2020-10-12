@@ -6,7 +6,9 @@ image : "images/blog/blog-post-6.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Company News"]
 tags: ["News","Retro","AI","Company"]
-description: "this is meta description"
+sections: 
+    - key: "Description"
+      value: "Hello"
 draft: false
 type: "post"
 ---
