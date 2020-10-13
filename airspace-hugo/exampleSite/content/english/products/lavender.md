@@ -7,8 +7,58 @@ bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","Retro"]
 sections: 
-    - key: "Description"
-      value: "Hello"
+    - key: "Description:"
+      value: "Lavender Essential Oil is one of the most popular among the essential oils and
+it’s extremely versatile. It’s well known for its calming, soothing and relaxing properties."
+    - key: ""
+      value: ""
+    - key: "Ingredient profile:"
+      value: "Lavandula angustifolia"
+    - key: "Origin:"
+      value: "Croatia"
+    - key: "Extraction Method:"
+      value: "Steam distilled"
+    - key: "Colour:"
+      value: "Colourless to pale yellow"
+    - key: "Odour:"
+      value: "Pleasant, herbaceous, with floral notes"
+    - key: ""
+      value: ""
+    - key: "Characteristics:"
+      list: 
+        - value: "Certified cruelty free, organic and vegan friendly."
+        - value: "Steam distilled."
+        - value: "Cleansing and balancing."
+        - value: "Perfect for diffusing."
+        - value: "Ideal for DIY massage oils blends, particularly calming blends."
+        - value: "Can be used in haircare products."
+        - value: "Suitable for oily skin and beneficial for mature skin."
+        - value: "Top perfumery note."
+        - value: "Blends well most essential oils, especially floral and citrus oils."
+    - key: ""
+      value: ""
+    - key: "Indications"
+      value: "Seek medical advice before use if suffering from any medical conditions or
+allergies. Always conduct a patch test before using any new product.
+Store in a cool and dry place away from sunlight.
+As our products are natural, the colour and odour may vary from batch to batch. We are
+continually improving our products and so on occasion the product you receive may differ
+slightly in appearance from images displayed on our website."
+    - key: ""
+      value: ""
+    - key: "How to use:"
+      olist: 
+          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
+to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
+use on your body or in the bath. Consult your doctor or midwife before using during
+pregnancy."
+          - value: "Massage - Combine Lavender Oil with your favourite carrier oil to apply to your skin leaving your skin
+soothed and your muscles relaxed.."
+          - value: "Skincare - Lavender is a great oil to use in skincare."
+          - value: "Hair care - Add a few drops to your shampoo, for a deep conditioning kick. It can help boost shine and
+health."
+          - value: "Household hack - Bring an old potpourri back to life by adding a few drops of Lavender to it. Sit back and enjoy
+the calming aroma.."
 draft: false
 type: "post"
 ---

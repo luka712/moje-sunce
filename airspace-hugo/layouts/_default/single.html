@@ -42,12 +42,18 @@
 						<div class="col-md-10">
 							{{ if .value }}
 								<p style="margin: 0 0 10px;">{{ .value }}</p>
-							{{ else }}
+							{{ else if .list }}
 								<ul style="list-style: disc;">
 								{{ range .list }}
 									<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
 								{{ end }}
 								</ul>
+							{{ else  }}
+								<ol style="margin-left: 10px;padding-left: 0px;">
+								{{ range .olist }}
+									<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
+								{{ end }}
+								</ol>
 							{{ end }}
 						</div>
 						{{ end }}
