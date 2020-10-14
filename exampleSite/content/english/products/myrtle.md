@@ -8,64 +8,53 @@ categories: ["Legacy Support"]
 tags: ["Mechine","Retro"]
 sections: 
     - key: "Description:"
-      value: "Organic Chamomile blue is the more potent of the two varieties of chamomile, with a more powerful, herbaceous aroma. It is also known as German Chamomile."
+      value: "Myrtle oil is seen as uplifting yet calming. It works well when diffused and
+blends with lots of other oils. . It has a fresh, peppery aroma, sometimes compared to Bay or
+Eucalyptus."
     - key: ""
       value: ""
     - key: "Ingredient profile:"
-      value: "Chamomilla Matricaria"
+      value: "Myrtle communis organic essential oil"
     - key: "Origin:"
       value: "Croatia"
     - key: "Extraction Method:"
       value: "Steam distilled"
     - key: "Colour:"
-      value: "Deep blue to blueish green"
+      value: "Yellow to dark orange to red"
     - key: "Odour:"
-      value: "Herbaceous"
+      value: "fresh, green"
     - key: ""
       value: ""
     - key: "Characteristics:"
       list: 
         - value: "Certified cruelty free, organic and vegan friendly."
         - value: "Steam distilled."
-        - value: "Calming and relaxing."
-        - value: "Very popular in aromatherapy and massage."
-        - value: "Frequently used in skincare preparations thanks to its soothing properties."
-        - value: "Delicately fragrance your homemade products and massage oil blends."
+        - value: "Refreshing and clean aroma."
+        - value: "Uplifting in nature."
+        - value: "Perfect for settling the mind and promoting restfulness."
+        - value: "Toning and clarifying when used in skin and hair care."
         - value: "Middle perfumery note."
-        - value: "Blends well with Bergamot, Frankincense, Lavender, Rose, Ylang Ylang."
+        - value: "Blends well with Cedarwood, Ho Leaf, Sandalwood, Rosemary and Thyme."
     - key: ""
       value: ""
     - key: "Indications"
       value: "Seek medical advice before use if suffering from any medical conditions or
-              allergies. Always conduct a patch test before using new product.
-              Store in a cool and dry place away from sunlight.
-              As our products are natural, the colour and odour may vary from batch to batch. We are
-              continually improving our products and so on occasion the product you receive may differ
-              slightly in appearance from images displayed on our website."
+allergies. Always conduct a patch test before using any new product. Store in a cool dry place
+away from sunlight.As our products are natural, the colour and odour may vary from batch to
+batch. We are continually improving our products and so on occasion the product you receive
+may differ slightly in appearance from images displayed on our website."
     - key: ""
       value: ""
     - key: "How to use:"
       olist: 
-          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
-              to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
-              use on your body or in the bath. Consult your doctor or midwife before using during
-              pregnancy."
-          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
-              to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
-              use on your body or in the bath. Consult your doctor or midwife before using during
-              pregnancy."
-          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
-              to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
-              use on your body or in the bath. Consult your doctor or midwife before using during
-              pregnancy."
-          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
-              to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
-              use on your body or in the bath. Consult your doctor or midwife before using during
-              pregnancy."
-          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1 ml of essential oil
-              to 100ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for
-              use on your body or in the bath. Consult your doctor or midwife before using during
-              pregnancy."
+          - value: "Dilution - Dilute at a percentage of 1% of the finished blend, typically 20 drops or 1ml of essential oil to
+100 ml of carrier oil. Do not use undiluted on the skin. You can use up to 3% dilution for use
+on your body or in the bath. Consult your doctor or midwife before using during pregnancy."
+          - value: "Massage - Blend it with a carrier oil like almond or coconut."
+          - value: "Aromatherapy - Add a few drops to your diffuser or oil burner and enjoy the invigorating and uplifting scent
+of Myrtle."
+          - value: "DIY Beauty - Can be used as an ingredient in your own homemade lotions, serums, creams and balms."
+          - value: "Green Cleaning - Can be used to make your own eco-friendly cleaning products at home."
 draft: false
 type: "post"
 ---
