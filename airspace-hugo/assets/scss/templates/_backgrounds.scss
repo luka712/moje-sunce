@@ -8,4 +8,15 @@
 .bg-2 {
 	background-size: cover;
 	background-attachment: fixed;
+
+	@media only screen and (min-width: 1024px) {
+		background-image: url('http://localhost:1313/images/smilje/lavender.png');
+		background-position-x: -150px;
+		background-size: 110%;
+	}
+}
+
+.bg-3 {
+	background-size: cover;
+	background-attachment: fixed;
 }

@@ -42,8 +42,8 @@ portfolio:
 portfolio_footer:
   enable : true
   title : "STRAIGHT FROM THE SOURCE"
-  description : ""
-  content : "We produce only pure high quality ingredients and we stand behind every item that we make 100%. Our oils are ideal for aromatherapists or cosmetic producers who want to skip the middleman and buy straight from the source with the guaranteed quality. 
+  content : "
+  We produce only pure high quality ingredients and we stand behind every item that we make 100%. Our oils are ideal for aromatherapists or cosmetic producers who want to skip the middleman and buy straight from the source with the guaranteed quality. 
   \n\nWe invite everyone who is interested to come and visit us on our distillery and see the whole process for themselves."
   image : "images/smilje/video.gif" # "images/wrapper-img.png"
   saturate: "100%"

@@ -1,29 +1,37 @@
-.about{
-	.block{
-		
-		h2{
+.about {
+	.block {
+		h2 {
 			padding-top: 35px;
-			margin:0;
+			margin: 0;
 		}
-		p{
+		p {
 			padding-top: 20px;
-			line-height:28px;
+			line-height: 28px;
 		}
-		img{
+		img {
 			width: 100%;
 		}
 	}
+
 	.about-img {
-		overflow:hidden;
+		overflow: hidden;
 		&:hover img {
-			transform: scale3D(1.1,1.1,1);
+			transform: scale3D(1.1, 1.1, 1);
 		}
 		img {
-			opacity: .6;
-			@include transition (all, 0.5s, ease-out);
+			opacity: 0.6;
+			@include transition(all, 0.5s, ease-out);
 		}
 	}
 	.section-title {
 		margin-bottom: 0px;
 	}
 }
+
+.about-section {
+	padding: 50px 0;
+	@media only screen and (max-width: 1024px) {
+		padding: 15px;
+	}
+}
+

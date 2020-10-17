@@ -59,7 +59,7 @@
 {{ if $data.homepage.portfolio.enable }}
 {{ with $data.homepage.portfolio }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}');background-position-x: -150px;background-size: 110%;">
+<section class="feature bg-2">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
@@ -85,12 +85,11 @@
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <br>
-            <br>
-            <br>
-            <h2>{{ .title | markdownify }}</h2>
+            <h2 class="subtitle">{{ .title | markdownify }}</h2>
           </div>
-          <p>{{ .content | markdownify }}</p>
+          <div class="subtitle-margin">
+          {{ .content | markdownify }}
+        </div>
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
@@ -154,11 +153,11 @@
 <br>
 
 <div class="row">
-    <div class="col-md-2 col-md-offset-1"><img src="images/logo1.jpg" style="width: 50%;"></div>
-    <div class="col-md-2"> <img src="images/logo_2.jpg" style="width: 50%;"></div>
-    <div class="col-md-2"> <img src="images/logo3.jpg" style="width: 50%;"></div>
-    <div class="col-md-2"> <img src="images/logo5.png" style="width: 50%;"></div>
-    <div class="col-md-2"> <img src="images/quality.png" style="width: 50%;"></div>
+    <div class="col-md-2 col-sm-2 col-2 col-md-offset-1 cert-width"><img src="images/logo1.jpg" class="cert-image"></div>
+    <div class="col-md-2 col-sm-2 col-2 cert-width"> <img src="images/logo_2.jpg" class="cert-image"></div>
+    <div class="col-md-2 col-sm-2 col-2 cert-width"> <img src="images/logo3.jpg" class="cert-image"></div>
+    <div class="col-md-2 col-sm-2 col-2 cert-width" > <img src="images/logo5.png" class="cert-image"></div>
+    <div class="col-md-2 col-sm-2 col-2 cert-width" > <img src="images/quality.png" class="cert-image"></div>
 </div>
 
 <br>
