@@ -2,10 +2,11 @@
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: John Doe
-image : "images/blog/blog-post-4.jpg"
+image : "../../images/products/myrtus.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Legacy Support"]
 tags: ["Mechine","Retro"]
+title: "Myrtle"
 sections: 
     - key: "Description:"
       value: "Myrtle oil is seen as uplifting yet calming. It works well when diffused and
@@ -14,7 +15,7 @@ Eucalyptus."
     - key: ""
       value: ""
     - key: "Ingredient profile:"
-      value: "Myrtle communis organic essential oil"
+      value: "Myrtus communis organic essential oil"
     - key: "Origin:"
       value: "Croatia"
     - key: "Extraction Method:"

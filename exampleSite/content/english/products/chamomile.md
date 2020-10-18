@@ -2,17 +2,18 @@
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: Mark Dinn
-image : "images/blog/blog-post-5.jpg"
+image : "../../images/products/chamomile.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","AI"]
+title: "Chamomile"
 sections: 
     - key: "Description:"
       value: "Organic Chamomile blue is the more potent of the two varieties of chamomile, with a more powerful, herbaceous aroma. It is also known as German Chamomile."
     - key: ""
       value: ""
     - key: "Ingredient profile:"
-      value: "Chamomilla Matricaria"
+      value: "Matricaria chamomilla"
     - key: "Origin:"
       value: "Croatia"
     - key: "Extraction Method:"
@@ -66,7 +67,7 @@ draft: false
 type: "post"
 ---
 
-### Chamomilla matricaria
+### Matricaria chamomilla
 
 Description - Organic Chamomile blue is the more potent of the two varieties of chamomile, with a more powerful, herbaceous aroma. It is also known as German Chamomile.
  
@@ -79,7 +80,7 @@ Description - Organic Chamomile blue is the more potent of the two varieties of 
 * Middle perfumery note
 * Blends well with Bergamot, Frankincense, Lavender, Rose, Ylang Ylang
  
-Ingredient profile – Chamomilla Matricaria; Origin – Croatia; Extraction Method: Steam distilled; Colour: Deep blue to blueish green; Odour: Herbaceous
+Ingredient profile – Matricaria chamomilla; Origin – Croatia; Extraction Method: Steam distilled; Colour: Deep blue to blueish green; Odour: Herbaceous
  
 Indications: Seek medical advice before use if suffering from any medical conditions or allergies. Always conduct a patch test before using new product.
 Store in a cool and dry place away from sunlight.

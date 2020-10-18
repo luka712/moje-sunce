@@ -33,30 +33,40 @@
 					<div class="post-thumb">
 						<img class="img-responsive" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
 					</div> -->
-					<div class="post-content post-excerpt">
-						{{ range .Params.Sections}}
-						<!-- {{ .Content }} -->
-						<div class="col-md-2">
-							<p style="margin: 0 0 10px;">{{ .key }}</p>
-						</div>
-						<div class="col-md-10">
-							{{ if .value }}
-								<p style="margin: 0 0 10px;">{{ .value }}</p>
-							{{ else if .list }}
-								<ul style="list-style: disc;">
-								{{ range .list }}
-									<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
-								{{ end }}
-								</ul>
-							{{ else  }}
-								<ol style="margin-left: 10px;padding-left: 0px;">
-								{{ range .olist }}
-									<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
-								{{ end }}
-								</ol>
+					<h4>{{.Params.Title}}</h4>
+					<div class="row">
+						<div class="post-content post-excerpt col-md-8">
+
+							{{ range .Params.Sections}}
+							<div class="row">
+								<!-- {{ .Content }} -->
+								<div class="col-md-2">
+									<p style="margin: 0 0 10px;">{{ .key }}</p>
+								</div>
+								<div class="col-md-10">
+									{{ if .value }}
+									<p style="margin: 0 0 10px;">{{ .value }}</p>
+									{{ else if .list }}
+									<ul style="list-style: disc;">
+										{{ range .list }}
+										<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
+										{{ end }}
+									</ul>
+									{{ else  }}
+									<ol style="margin-left: 10px;padding-left: 0px;">
+										{{ range .olist }}
+										<li style="font-size: 14px;color:#7b7b7b">{{ .value }}</li>
+										{{ end }}
+									</ol>
+									{{ end }}
+								</div>
+							</div>
 							{{ end }}
+
 						</div>
-						{{ end }}
+						<div class="col-md-4">
+							<image src="{{ .Params.Image }}" style="width:100%"></image>
+						</div>
 					</div>
 					<div class="post-comments">
 						{{ template "_internal/disqus.html" . }}

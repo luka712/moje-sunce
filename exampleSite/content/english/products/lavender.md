@@ -2,10 +2,11 @@
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: Mark Dinn
-image : "images/blog/blog-post-2.jpg"
+image : "../../images/products/lavender.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","Retro"]
+title: "Lavender"
 sections: 
     - key: "Description:"
       value: "Lavender Essential Oil is one of the most popular among the essential oils and

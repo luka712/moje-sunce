@@ -2,8 +2,9 @@
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: John Doe
-image : "images/blog/blog-post-1.jpg"
+image : "../../images/products/laurel.jpg"
 bg_image: "images/featue-bg.jpg"
+title: "Laurel"
 categories: ["Company News"]
 tags: ["Advice","Technology"]
 sections: 

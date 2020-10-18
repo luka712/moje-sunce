@@ -82,6 +82,40 @@
   }
 }
 
+.product-item{
+  width: 20%;
+  @media only screen and (max-width: 1024px) {
+    width: 100%;
+  }
+}
+
+.outer-product-class{
+  width: 100%;
+  height: 100%;
+  @media only screen and (max-width: 1024px) {
+    width: 80%;
+    height: 80%;
+  }
+}
+
+.inner-product-class{
+  width: 110%;
+  height: 110%;
+  @media only screen and (max-width: 1024px) {
+    width: 80%;
+    height: 80%;
+  }
+}
+
+.main-product-class{
+  width: 120%;
+  height: 120%;
+  @media only screen and (max-width: 1024px) {
+    width: 80%;
+    height: 80%;
+  }
+}
+
 .distillery-arrow {
   .block {
     padding: 50px 30px;

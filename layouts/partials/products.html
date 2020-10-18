@@ -4,9 +4,9 @@
   <div class="container">
     <div class="row">
       {{ range .product_item }}
-      <div class="col-sm-6 col-md-3" style="width: 20%;" >
+      <div class="col-sm-6 col-md-3 product-item" >
         <div class="distillery-item">
-          <a href="{{.url}}"><img src="{{.image}}" style="width: {{.width}}%;height: {{.height}}%"/></a>
+          <a href="{{.url}}"><img src="{{.image}}" class="{{.class}}"/></a>
           <a href="{{.url}}"><h4 >{{ .name | markdownify }}</h4></a>
           <p style="font-style: italic;color: #666;font-family: volkhov,serif;">{{ .meta | markdownify }}<p>
           <p>{{ .content | markdownify }}</p>
