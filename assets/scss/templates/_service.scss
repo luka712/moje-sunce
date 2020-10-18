@@ -27,6 +27,19 @@
   }
 }
 
+.distillery-product-container {
+  width: 20%;
+  @media only screen and (max-width: 1024px) {
+    width: 100%;
+  }
+}
+
+.distillery-product-image {
+  @media only screen and (max-width: 1024px) {
+    width: 80%;
+  }
+}
+
 .dark-distillery {
   .title {
     color: $light;
@@ -64,6 +77,9 @@
 
 .distillery-about-padding{
   padding: 60px;
+  @media only screen and (max-width: 1024px) {
+    padding: 0px;
+  }
 }
 
 .distillery-arrow {

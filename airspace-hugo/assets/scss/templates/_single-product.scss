@@ -309,7 +309,18 @@
 	}
 }
 
-.mobile-hide{
+.grid-image {
+	display: block;
+	width: calc(100vw / 6.1);
+	height: calc(100vw / 6.1);
+}
+
+.grid-image-2 {
+	width: calc(100vw / 6.1);
+	height: calc(100vw / 6.1);
+}
+
+.mobile-hide {
 	@media only screen and (max-width: 1024px) {
 		display: none;
 	}

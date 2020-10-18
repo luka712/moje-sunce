@@ -10,9 +10,9 @@
     </div>
     <div class="row">
       {{ range .distillery_item }}
-      <div class="col-sm-6 col-md-3" style="width: 20%;">
+      <div class="col-sm-6 col-md-3 distillery-product-container">
         <div class="distillery-item">
-          <img src="{{.image}}" style="width: {{.width}}%;height: {{.height}}%" />
+          <img src="{{.image}}" style="width: {{.width}}%;height: {{.height}}%" class="distillery-product-image"/>
           <h4>{{ .name | markdownify }}</h4>
           <p style="font-style: italic;color: #666;font-family: volkhov,serif;">{{ .meta | markdownify }}<p>
           <p>{{ .content | markdownify }}</p>

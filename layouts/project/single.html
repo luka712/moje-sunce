@@ -32,16 +32,16 @@
 {{ if .Params.Enable_grid_images}}
 <div class="row shuffle-wrapper mobile-hide">
   {{ range .Params.Grid_images_1}}
-  <div class="portfolio-item shuffle-item">
+  <div class="shuffle-item">
     <a href="../../{{ .src }}">
-      <img src="../../{{ .thumb }}" style="display:block;max-width:290px; max-height: 290px;" />
+      <img src="../../{{ .thumb }}" class="grid-image" />
     </a>
   </div>
   {{end}}
   {{ range .Params.Grid_images_2}}
-  <div class="portfolio-item shuffle-item">
+  <div class="shuffle-item">
     <a href="../../{{ .src }}">
-      <img src="../../{{ .thumb }}" style="width:290px; height: 290px;">
+      <img src="../../{{ .thumb }}" class="grid-image-2">
     </a>
   </div>
   {{end}}
