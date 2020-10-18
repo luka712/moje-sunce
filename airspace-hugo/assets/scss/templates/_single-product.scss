@@ -20,7 +20,7 @@
 			display: inline-block;
 			margin: 0 8px;
 
-			&+li:before {
+			& + li:before {
 				padding: 0 8px 0 0;
 				color: #ccc;
 				content: "/\00a0";
@@ -37,8 +37,6 @@
 		}
 	}
 }
-
-
 
 .single-product-slider {
 	.carousel {
@@ -93,8 +91,6 @@
 		}
 	}
 }
-
-
 
 .single-product-slider .carousel-indicators {
 	margin: 10px 0 0;
@@ -200,7 +196,7 @@
 	.product-category {
 		margin-top: 20px;
 
-		>span {
+		> span {
 			width: 100px;
 			color: #000;
 			font-size: 13px;
@@ -227,7 +223,7 @@
 		display: flex;
 		align-items: center;
 
-		>span {
+		> span {
 			width: 100px;
 			color: #000;
 			font-size: 13px;
@@ -243,8 +239,8 @@
 				height: 34px;
 			}
 
-			.input-group-btn:first-child>.btn,
-			.p-quantity .input-group-btn:first-child>.btn-group {
+			.input-group-btn:first-child > .btn,
+			.p-quantity .input-group-btn:first-child > .btn-group {
 				margin-right: -2px;
 			}
 
@@ -255,21 +251,6 @@
 	}
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .bootstrap-touchspin .input-group-btn-vertical {
 	position: relative;
 	white-space: nowrap;
@@ -278,7 +259,7 @@
 	display: table-cell;
 }
 
-.bootstrap-touchspin .input-group-btn-vertical>.btn {
+.bootstrap-touchspin .input-group-btn-vertical > .btn {
 	display: block;
 	float: none;
 	width: 100%;
@@ -305,4 +286,31 @@
 	left: 5px;
 	font-size: 9px;
 	font-weight: normal;
+}
+
+.project-content-container {
+	margin-right: 150px;
+	margin-left: 150px;
+	@media only screen and (max-width: 1024px) {
+		margin-right: 0;
+		margin-left: 0;
+		padding: 15px;
+	}
+}
+
+.project-image {
+	margin-top: 50px;
+	max-width: 80%;
+	max-height: 80%;
+	@media only screen and (max-width: 1024px) {
+		margin-top: 10px;
+		max-width: 95%;
+		max-height: 95%;
+	}
+}
+
+.mobile-hide{
+	@media only screen and (max-width: 1024px) {
+		display: none;
+	}
 }
