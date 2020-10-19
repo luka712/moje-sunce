@@ -333,7 +333,12 @@ input[type="tel"] {
 }
 
 .page-wrapper {
-	padding: 70px 0;
+	padding: 50px 0;
+
+	@media only screen and (max-width: 1024px) {
+		padding: 20px;
+		padding: 15px;
+	}
 }
 
 // Social Media Icons

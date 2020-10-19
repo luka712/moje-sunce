@@ -81,8 +81,7 @@ distillery:
       content: "Best known for its almost miraculous properties in skin care because it affects all skin types with an emphasis on the regeneration of damaged and mature skin prone to wrinkles. Contains extremely strong antioxidants."
       meta: Helichrysum italicum
       image: "../images/distillery/immortele.png"
-      width: 83
-      height: 83
+      class: "outer-product-class-2"
 
     # distillery item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -90,8 +89,7 @@ distillery:
       content: "Acts as an antiseptic, anti-inflammatory and antifungal. It relieves pain and muscle cramps and it is used to treat spasms and sprains. It stimulates the blood circulation and lymph, and is also known as a repellent. It can be used as a space refreshener. "
       meta: Laurus nobilis
       image: "../images/distillery/laurel.jpg"
-      width: 98
-      height: 98
+      class: "inner-product-class-2"
 
     # distillery item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -99,8 +97,7 @@ distillery:
       content: "Works strongly antiviral and also as a strong expectorant. It is used for viral infections, especially for children. It also prevents the production of mucus and it is ideal for the treatment of sinusitis and bronchitis. "
       meta: Myrtus communis
       image: "../images/distillery/myrtle.jpg"
-      width: 120
-      height: 120
+      class: "main-product-class-2"
       
 
     # distillery item loop
@@ -109,8 +106,7 @@ distillery:
       content: "A must-have for its calming & relaxing properties. It is purporsed to have anti-inflammatory, antifungal, antidepressant, antiseptic, antibacterial and antimicrobial properties."
       meta: Lavandula hybrida
       image: "../images/distillery/lavender1.jpg"
-      width: 108
-      height: 108
+      class: "inner-product-class-3"
 
     # distillery item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -118,8 +114,7 @@ distillery:
       content: It has a very anti-inflammatory effect, works quickly and effectively in all types of inflammatory skin diseases, skin allergies, seborrhea, burns. It is also used as an aid to allergic diseases such as asthma and allergic rhinitis.
       meta: Anthemis nobilis
       image: "../images/distillery/chamomile.jpg"
-      width: 97
-      height: 97
+      class: "outer-product-class-3"
 
     # # distillery item loop
     # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
