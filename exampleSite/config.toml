@@ -75,7 +75,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Pages"
   name = "Certificates"
-  URL = "pricing"
+  URL = "certificates"
   
 [[menu.main]]
 name = "Contact"
@@ -100,8 +100,8 @@ URL = "distillery"
 weight = 3
 
 [[menu.footer]]
-name = "Pricing"
-URL = "pricing"
+name = "Certificates"
+URL = "certificates"
 weight = 4
 
 [[menu.footer]]

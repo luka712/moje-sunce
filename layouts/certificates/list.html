@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="page-title-type-2 bg-3" style="background-color:rgba(60,55,55,.5)">
+  <div class="container" bis_skin_checked="1">
+    <div class="row" bis_skin_checked="1">
+      <div class="col-md-12" bis_skin_checked="1">
+        <div class="block" bis_skin_checked="1">
+          <h1 style="color: white;">Certificates</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
+<div class="container">
+  <div class="row">
+   
+
+    <ul style="list-style-type:none">
+      <h4>Immortelle - Helichrysum italicum</h4>
+      <li><a href="../certificates/Imortelle/MSDS_1.pdf"> </span>MSDS 1 </a></li>
+      <li><a href="../certificates/Imortelle/MSDS_2.pdf"> </span>MSDS 2 </a></li>
+      <li><a href="../certificates/Imortelle/COA.pdf"> </span>COA </a></li>
+      <li><a href="../certificates/Imortelle/GCMS.pdf"> </span>GCMS</a></li>
+      <li><a href="../certificates/Imortelle/QR_information.pdf"> </span>QR information </a></li>
+    </ul>
+
+    <br>
+  
+    <ul style="list-style-type:none">
+      <h4>Myrtle - Myrtus communis</h4>
+      <li><a href="../certificates/Myrtle/MSDS.pdf">MSDS</a></li>
+    </ul>
+
+    <br>
+
+    <ul style="list-style-type:none">
+      <h4>Laurel - Laurus nobilis</h4>
+      <li><a href="../certificates/Laurel/MSDS.pdf">MSDS</a></li>
+    </ul>
+
+    <br>
+
+    <ul style="list-style-type:none">
+      <h4>Lavender - Lavandula angustifolia</h4>
+      <li><a href="../certificates/Lavender/MSDS_essential_oil.pdf">MSDS essential oil</a></li>
+      <li><a href="../certificates/Lavender/MSDS_hydrolate.pdf">MSDS hydrolate</a></li>
+    </ul>
+
+    <br>
+
+    <ul style="list-style-type:none">
+      <h4>Chamomile - Matricaria chamomilla</h4>
+      <li><a href="../certificates/Chamomile/MSDS.pdf">MSDS</a></li>
+    </ul>
+
+  </div>
+
+</div>
+
+<!-- Call to action -->
+{{ if $data.certificates.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
+{{ end }}

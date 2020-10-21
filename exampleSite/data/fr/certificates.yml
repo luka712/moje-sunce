@@ -1,5 +1,5 @@
 ################################ pricing ################################
-pricing:
+certificates:
   enable : true
   pricing_table:
     # pricing table loop
