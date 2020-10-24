@@ -147,8 +147,8 @@ link = "contact"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "45.5571815"
+map_longitude = "18.6865032"
 map_marker = "images/marker.png"
 
   
