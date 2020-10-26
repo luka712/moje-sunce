@@ -80,7 +80,7 @@ distillery:
       name: Immortelle
       content: "Best known for its almost miraculous properties in skin care because it affects all skin types with an emphasis on the regeneration of damaged and mature skin prone to wrinkles. Contains extremely strong antioxidants."
       meta: Helichrysum italicum
-      image: "../images/distillery/immortele.png"
+      image: "../images/distillery/immortele.jpg"
       class: "outer-product-class-2"
 
     # distillery item loop
