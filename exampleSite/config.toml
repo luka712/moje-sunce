@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://essentialoilseurope.com/"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Essential Oils Europe"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -123,6 +123,7 @@ description = "This is meta description"
 author = "Themefisher"
 # Contact Information
 mobile = "+385 91 554 7396"
+phone = "+385 91 554 7396"
 email = "info@moje-sunce.hr"
 location = "Franje Krežme 20, 31 000 Osijek, Croatia"
 # contact form action

@@ -77,4 +77,4 @@ cta:
   enable : true
   # call to action content comes from "data/*/homepage.yml"
 ############################ bottom image ####################################
-bottom_image: "../images/distillery/destilerija.png"
+bottom_image: "../images/distillery/destilerija.jpg"
