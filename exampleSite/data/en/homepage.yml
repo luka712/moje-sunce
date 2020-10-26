@@ -21,7 +21,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/smilje/lavender.png" #"images/featue-bg.jpg"
+  bg_image : "images/smilje/lavender.jpg" #"images/featue-bg.jpg"
   title : "WE BELIEVE IN THE POWER ON NATURE"
   content : "
   Our ancestors understood that mother nature provided us with everything we need to prosper,
