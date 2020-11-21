@@ -33,10 +33,10 @@ an innovative production process for the production of CBD oil“ has passed
 inspections and evaluations and we hope to sign a contract soon.
 
 In the last few years, CBD oil has become the product of greatest demand in the EU
-with the announcements of large growth in consumption. The production is very
+with announcements of large growth in consumption. The production is very
 technologically complex, because most of the process takes place either under
-enormous pressures or in a vacuum. The equipment is complex and expensive, and
-production requires large investments from the very beginning.
+enormous pressures or in a vacuum. The equipment is complex and expensive, so that beginning
+production requires large initial investments.
 
 Within the proposed three years of laboratory and industrial research, we will strive to
 obtain four groups of products from industrial hemp flowers, along with several

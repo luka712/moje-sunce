@@ -1,9 +1,9 @@
 ########################### about distillery #############################
 about:
   enable : true
-  title : "The art of steam distillation"
+  title : "The Art of Steam Distillation"
   content :  "Steam distillation is by far the most popular method used to extract and isolate essential oils from
-              plants for use in natural products. This happens when steam vaporizes the plant materials volatile
+              plants for use in natural products. This happens when steam vaporizes the plant materials' volatile
               compounds, which eventually go through a condensation and collection process.
               \n\n
               Our distillery is mobile which means it is permanently placed on the specialised trailer. That gives us
@@ -30,11 +30,11 @@ about:
                 the bottom is called hydrolate, also known as ‘flower water’ which is commonly used in
                 cosmetics and toiletries."
       no : 5
-    - content: "After every shift or in between different herbs, containers, condensers and separators are
+    - content: "After every shift, or in between different herbs, the containers, condensers and separators are
                 thoroughly steamed and cleaned for 2 hours to avoid oxidation and contamination of the left
                 over oil."
       no : 6
-    - content: "After every shift or in between different herbs, containers, condensers and separators are
+    - content: "After every shift, or in between different herbs, the containers, condensers and separators are
                 thoroughly steamed and cleaned for 2 hours to avoid oxidation and contamination of the left
                 over oil."
       no : 7

@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/smilje/1.jpg" #"images/slider-bg.jpg"
   title : "DISTILLING THE MEDITERRANEAN"
-  content : "We make the highest quality essential oils from the hand-picked medicinal herbs."
+  content : "We make the highest quality essential oils from hand-picked medicinal herbs."
   button:
     enable : true
     label : "Discover Our Project"
@@ -30,7 +30,7 @@ portfolio:
   have remarkable abilities to support our health and wellness.
   \n
   \n
-  Whether you are using them for aromatherapy or skincare we make sure our essential oils are of top
+  Whether you are using them for aromatherapy or skincare, we make sure our essential oils are of top
   quality.
   "
   # button:
@@ -43,8 +43,8 @@ portfolio_footer:
   enable : true
   title : "STRAIGHT FROM THE SOURCE"
   content : "
-  We produce only pure high quality ingredients and we stand behind every item that we make 100%. Our oils are ideal for aromatherapists or cosmetic producers who want to skip the middleman and buy straight from the source with the guaranteed quality. 
-  \n\nWe invite everyone who is interested to come and visit us on our distillery and see the whole process for themselves."
+  We produce only pure high quality ingredients and we stand behind every item that we make 100%. Our oils are ideal for aromatherapists or cosmetic producers who want to skip the middleman and buy straight from the source with guaranteed quality. 
+  \n\nWe invite everyone who is interested to come and visit us at our distillery and see the whole process for themselves."
   image : "images/smilje/JOSIPA3.jpg" # "images/wrapper-img.png"
   saturate: "100%"
 

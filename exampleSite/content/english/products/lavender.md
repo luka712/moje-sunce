@@ -59,7 +59,7 @@ soothed and your muscles relaxed.."
           - value: "Hair care - Add a few drops to your shampoo, for a deep conditioning kick. It can help boost shine and
 health."
           - value: "Household hack - Bring an old potpourri back to life by adding a few drops of Lavender to it. Sit back and enjoy
-the calming aroma.."
+the calming aroma."
 draft: false
 type: "post"
 ---

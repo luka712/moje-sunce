@@ -51,16 +51,16 @@ grid_images_2:
 
 ## Organic Medicinal Herbs
 
-In the area of Bilice in the Šibenik - Knin County, our company planted approximately 260,000
+In the area of Bilice in Šibenik - Knin County, our company planted approximately 260,000
 seedlings of the plant Helicrysum italicum, also known as Immortelle. Immortelle was planted on a
-karst field where nothing was ever grown and without pollution. Through a demanding process, we
-obtained clean and intact areas from a neglected land, ready for the cultivation of Immortelle and
+karst field where nothing was ever grown and which remaind free from pollution. Through a demanding process, we
+obtained clean and intact tracts of land from a neglected land area, which is ready for the cultivation of Immortelle and
 other medicinal plants. Our partners developed seedlings from the seeds of the native Croatian
-species, which we returned to their original habitats and arranged them for cultivation. Without a
+species, which we returned to their original habitats and arranged for cultivation. Without a
 trace of artificial fertilizers and herbicides since planting, our plantation has an ecological certificate
 of cultivation.
 
-Immortelle (lat. Helichrysum italicum) has almost miraculous properties in skin care because it affects
+Immortelle (lat. Helichrysum italicum) possesses almost miraculous properties in skin care because it affects
 all skin types with an emphasis on the regeneration of damaged and mature skin prone to wrinkles. It
 is well known for its extremely strong antioxidant effect.
 

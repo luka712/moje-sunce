@@ -29,7 +29,7 @@ several months during which we developed a new cosmetic line, we came up with 
 cosmetic products and 9 essential oils for sale on the EU market. One of the results of the project
 was the entry of cosmetic products in the CPNP - EU register of cosmetic products.
 
-We consider starting the production of top quality cosmetics with a high percentage of active
+We are considering starting the production of top quality cosmetics with a high percentage of active
 substance - Immortelle essential oil, an activity that will make the business of growing and distilling
 Immortelle sustainable in the long run, making our company a relevant producer of natural
 cosmetics.

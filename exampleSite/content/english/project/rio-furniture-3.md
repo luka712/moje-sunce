@@ -30,6 +30,6 @@ goal of reaching the full fruition in four years. Production will be completely 
 herbicides, pesticides and fertilizers. Later on, we plan to develop the production of several new
 products from the almond core and leaves – chocolate almond sweets and almond oil for cosmetics.
 
-In a full yield we expect 20 tons of almond kernels, which should mainly end up as a raw material for
+In a full yield we expect 20 tons of almond kernels, which will mainly be used as raw material for
 further processing. If we implement orchard irrigation and pollination by bees, the yield can increase
 up to 40 %.
